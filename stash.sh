@@ -1,0 +1,2 @@
+echo "stash is cool"
+
